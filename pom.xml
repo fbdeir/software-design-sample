@@ -15,15 +15,4 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
 
-    <dependencies>
-        <!-- https://mvnrepository.com/artifact/junit/junit -->
-        <!-- We are using JUnit 4 because JUnit5 would require the surefire plugin -->
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.12</version>
-            <scope>test</scope>
-        </dependency>
-    </dependencies>
-
 </project>
